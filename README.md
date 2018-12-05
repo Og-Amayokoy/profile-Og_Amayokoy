@@ -1,2 +1,4 @@
-# self-introduction
-This is introduction of user which "Yokoyama-GO"
+# self-introduction of Yokoyama-GO
+
+
+This is introduction "Yokoyama-GO".
