@@ -1,4 +1,4 @@
-# self-introduction of Yokoyama-GO
+# Self-introduction of Yokoyama-GO
 
 
 This is introduction "Yokoyama-GO".
