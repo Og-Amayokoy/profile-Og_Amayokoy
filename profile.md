@@ -8,9 +8,9 @@ I'm **Yokoyama Go**(横山 豪). I am happy to see you on GitHub😀.
 
 ## Time Line
 
-* May 2008   | &nbsp; Was born🐣.
-* April 2018   |Joined on GitHub.
-* December 2018   |Write this file first version.
+* May 2008   | &nbsp; &nbsp; Was born🐣.
+* April 2018   | &nbsp; &nbsp; Joined on GitHub.
+* December 2018   | &nbsp; &nbsp; Write this file first version.
 
 
 ## Language
