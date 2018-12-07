@@ -46,12 +46,14 @@ I'm **Yokoyama Go**(横山 豪). I am happy to see you on GitHub😀.
  
  City (12:00 a.m. January 1st)| My time
  -------------------------------|------
- Tokyo,Japan|12:00 a.m. January 1st🕛
- London,UK |9:00 p.m. Jan. 1st🕘
- Silicon Valley,US|2:00 a.m. Jan. 2nd🕐
- Los Angels,US|2:00 p.m.🕐
- Washington D.C.,US|2:00 p.m. Jan 2nd🕐
- New York,US|2:00 p.m. Jan 2nd🕐
+ Tokyo,Japan|12:00 a.m.🕛 January 1st
+ Sydney,Australia|12:00 a.m.🕛 Jan. 1st
+ Seoul,Korea|12:00 a.m.🕛 Jan. 1st
+ London,UK |9:00 p.m. Jan.🕘 1st
+ Silicon Valley,US|2:00 a.m.🕑 Jan. 2nd
+ Los Angels,US|2:00 p.m.🕑 Jan. 2nd
+ Washington D.C.,US|2:00 p.m.🕑 Jan 2nd
+ New York,US|2:00 p.m.🕑 Jan 2nd
  San Francisco,US|5:00 a.m. Jan 2ed🕔
  Beijing,China|11:00 a.m. Jan 1st🕚
  Cairo,Egypt|5:00 a.m. Jan 1st🕔
