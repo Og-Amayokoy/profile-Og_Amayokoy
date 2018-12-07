@@ -2,15 +2,14 @@
 # Yokoyama-Go
 
 
-I'm **Yokoyama Go**(横山 豪). I am happy to see you on GitHub😀.  
-
+I'm **Yokoyama Go** (横山 豪). It’s a great honor to meet you on GitHub😀. 
 
 
 ## Time Line
 
-* May 2008   | &nbsp; &nbsp; Was born🐣.
-* April 2018   | &nbsp; &nbsp; Joined on GitHub.
-* December 2018   | &nbsp; &nbsp; Write this file first version.
+* May 2008 &nbsp;  | &nbsp; &nbsp; Was born🐣.
+* April 2018 &nbsp;  | &nbsp; &nbsp; Joined on GitHub.
+* December 2018 &nbsp;  | &nbsp; &nbsp; Write this file first version.
 
 
 ## Language
@@ -44,7 +43,7 @@ I'm **Yokoyama Go**(横山 豪). I am happy to see you on GitHub😀.
  
  Where I live time zone is GMT+9hours🌏 such as Tokyo,Seoul,Sydney.
  
- City (12:00 a.m. January 1st)| My time
+ City (12:00 a.m.🕛 January 1st)| My time
  -------------------------------|------
  Tokyo,Japan|12:00 a.m.🕛 January 1st
  Sydney,Australia|12:00 a.m.🕛 Jan. 1st
@@ -54,9 +53,9 @@ I'm **Yokoyama Go**(横山 豪). I am happy to see you on GitHub😀.
  Los Angels,US|2:00 p.m.🕑 Jan. 2nd
  Washington D.C.,US|2:00 p.m.🕑 Jan 2nd
  New York,US|2:00 p.m.🕑 Jan 2nd
- San Francisco,US|5:00 a.m. Jan 2ed🕔
- Beijing,China|11:00 a.m. Jan 1st🕚
- Cairo,Egypt|5:00 a.m. Jan 1st🕔
+ San Francisco,US|5:00 a.m.🕔 Jan 2ed
+ Beijing,China|11:00 a.m.🕚 Jan 1st
+ Cairo,Egypt|5:00 a.m.🕔 Jan 1st
  
 Some city have summer time. Please be careful.
 
@@ -64,6 +63,7 @@ Some city have summer time. Please be careful.
 ## How do I think about OSS
 
 I think OSS(Open Source Software) is good thing. If everyone cooperate, we can make grate software. 
+
 
 
 ### Thank you for reading!
