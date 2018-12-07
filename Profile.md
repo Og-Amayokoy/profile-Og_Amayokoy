@@ -29,7 +29,7 @@ I'm **Yokoyama Go** (横山 豪). It’s a great honor to meet you on GitHub😀
   * CSS(Cascading Style Sheets)
   
 * Human language
-  * Japanese
+  * Japanese日本語
   * English
   
  ## Avatar picture
