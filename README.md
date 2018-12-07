@@ -2,7 +2,7 @@
 
 
 **This is introduction "Yokoyama-GO".**
-**Please read ./profile.md&nbsp;**
+**Please read [./Profile.md](https://github.com/Yokoyama-Go/profile/blob/master/Profile.md)&nbsp;**
 
 
 
