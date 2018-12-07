@@ -2,6 +2,7 @@
 
 
 **This is introduction "Yokoyama-GO".**
+**Please read ./profile.md&nbsp;**
 
 
 
