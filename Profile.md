@@ -7,7 +7,7 @@ I'm **Yokoyama Go** (横山 豪). It’s a great honor to meet you on GitHub😀
 
 ## Time Line
 
-* May 2008 &nbsp;       | &nbsp; &nbsp; Was born🐣.
+* May 2004 &nbsp;       | &nbsp; &nbsp; Was born🐣.
 * April 2018 &nbsp;     | &nbsp; &nbsp; Joined on GitHub.
 * December 2018 &nbsp;  | &nbsp; &nbsp; Write this file first version.
 
