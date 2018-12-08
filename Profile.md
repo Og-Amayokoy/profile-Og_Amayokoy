@@ -48,7 +48,7 @@ I'm **Yokoyama Go** (横山 豪). It’s a great honor to meet you on GitHub😀
  Tokyo,Japan|12:00 a.m.🕛 January 1st
  Sydney,Australia|12:00 a.m.🕛 Jan. 1st
  Seoul,Korea|12:00 a.m.🕛 Jan. 1st
- London,UK |9:00 p.m. Jan.🕘 1st
+ London,UK |9:00 p.m. 🕘 Jan. 1st
  Silicon Valley,US|2:00 a.m.🕑 Jan. 2nd
  Los Angels,US|2:00 p.m.🕑 Jan. 2nd
  Washington D.C.,US|2:00 p.m.🕑 Jan 2nd
