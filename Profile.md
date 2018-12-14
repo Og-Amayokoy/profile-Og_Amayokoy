@@ -49,7 +49,6 @@ I'm **Yokoyama Go** (横山 豪). It’s a great honor to meet you on GitHub😀
  Sydney,Australia|12:00 a.m.🕛 Jan. 1st
  Seoul,Korea|12:00 a.m.🕛 Jan. 1st
  London,UK |9:00 p.m. 🕘 Jan. 1st
- Silicon Valley,US|2:00 a.m.🕑 Jan. 2nd
  Los Angels,US|2:00 p.m.🕑 Jan. 2nd
  Washington D.C.,US|2:00 p.m.🕑 Jan 2nd
  New York,US|2:00 p.m.🕑 Jan 2nd
@@ -62,7 +61,9 @@ Some city have summer time. Please be careful.
 
 ## How do I think about OSS
 
-I think OSS(Open Source Software) is good thing. If everyone cooperate, we can make grate software. 
+I think OSS(Open Source Software) is good thing. If everyone cooperate, we can make grater software.   
+Not only program. All of Electronic data. For e.g., Music(such as free downloard and free remis on [SoundCloud](https://soundcloud.com). Music artists say remix. It's means blanch.),Blueprints 3d CAD data(such as  [sketchup 3d warehouse](https://3dwarehouse.sketchup.com/?hl=en). I thought that If sektch up OSS, it'd be better.) ,free images(such as [unsplash](https://unsplash.com/)) & etc.  
+I belive we can to be better together whole world if we pulish and make blanch(or remix). 
 
 
 
