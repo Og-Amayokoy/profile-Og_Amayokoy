@@ -1,8 +1,8 @@
 
-# Yokoyama-Go
+# Og-Amayakoy
 
 
-I'm **Yokoyama Go** (横山 豪). It’s a great honor to meet you on GitHub😀. 
+I'm **Og Amayokoy** . It’s a great honor to meet you on GitHub😀. 
 
 
 ## Time Line
