@@ -1,4 +1,4 @@
-# Self-introduction of Yokoyama-GO
+# Self-introduction of OG-Amayokoy
 
 
 **This is introduction "Yokoyama-GO".**
