@@ -16,13 +16,11 @@ I'm **Og Amayokoy** . It’s a great honor to meet you on GitHub😀.
 
 * Programing language
   * JS (JavaScript)
-  * Ruby
   * Scratch
   * Lego Mindstorms
 
 * MarkUp language
   * HTML (Hyper Text Markup Language)
-  * XML (Extensibel Markup Language)
   * MarkDown
   
 * StyleSheet Language
