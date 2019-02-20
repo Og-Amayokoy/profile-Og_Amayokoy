@@ -1,7 +1,7 @@
 # Self-introduction of OG-Amayokoy
 
 
-**This is introduction "Yokoyama-GO".**
+**This is introduction "Og Amayokoy".**
 **Please read [./Profile.md](https://github.com/Yokoyama-Go/profile/blob/master/Profile.md)&nbsp;**
 
 
