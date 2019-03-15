@@ -1,4 +1,4 @@
-# Self-introduction of OG-Amayokoy
+# Self-introduction of Og-Amayokoy
 
 
 **This is introduction "Og Amayokoy".**
