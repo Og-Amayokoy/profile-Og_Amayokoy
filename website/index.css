@@ -13,6 +13,8 @@ h1,h2,h3,p{
   font-family: 'Josefin Sans', sans-serif;
 sans-serif;
     color:white;
+
+  
 }
 
 #nice_to_meet_you{
@@ -26,3 +28,7 @@ h2{
 a{
   color:rgb(96, 128, 224);
 }
+
+p{
+  font-size:20px;
+ }
