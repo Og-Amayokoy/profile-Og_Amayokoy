@@ -10,11 +10,8 @@ h1{
 }
 
 h1,h2,h3,p{
-  font-family: 'Josefin Sans', sans-serif;
-sans-serif;
+  font-family: 'Josefin Sans', sans-serif;sans-serif;
     color:white;
-
-  
 }
 
 #nice_to_meet_you{
@@ -32,3 +29,7 @@ a{
 p{
   font-size:10px;
  }
+
+.trp{
+font-size:10px
+}
