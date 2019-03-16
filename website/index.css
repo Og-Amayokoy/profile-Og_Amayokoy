@@ -1,8 +1,28 @@
-h1{
-  font-size:100%;
-
+html{
+  background-color:black;
 }
 
-#name{
-  height:100vw;
+h1{
+  font-size:1000%;
+  height:100vh;
+    color:white;
+  
+}
+
+h1,h2,h3,p{
+  font-family: 'Josefin Sans', sans-serif;
+sans-serif;
+    color:white;
+}
+
+#nice_to_meet_you{
+  font-size:30px;
+}
+
+h2{
+  font-size:25px;
+}
+
+a{
+  color:rgb(96, 128, 224);
 }
