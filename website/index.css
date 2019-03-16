@@ -33,3 +33,9 @@ p{
 .trp{
 font-size:30px
 }
+
+@media screen and (max-width: 480px){
+  h1{
+    transform: rotate(90deg);
+  }
+}
