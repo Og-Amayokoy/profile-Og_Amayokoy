@@ -36,26 +36,6 @@ I'm **Og Amayokoy** . It’s a great honor to meet you on GitHub😀.
  I've been there as a travel.The kind of flower is a lotus. It's one of my favourit pictures.
  
  ![My avatar](https://avatars2.githubusercontent.com/u/38034251?s=460&v=4)
- 
- ## Time Zone
- 
- Where I live time zone is GMT+9hours🌏 such as Tokyo,Seoul,Sydney.
- 
- City (12:00 a.m.🕛 January 1st)| My time
- -------------------------------|------
- Tokyo,Japan|12:00 a.m.🕛 January 1st
- Sydney,Australia|12:00 a.m.🕛 Jan. 1st
- Seoul,Korea|12:00 a.m.🕛 Jan. 1st
- London,UK |9:00 p.m. 🕘 Jan. 1st
- Los Angels,US|2:00 p.m.🕑 Jan. 2nd
- Washington D.C.,US|2:00 p.m.🕑 Jan 2nd
- New York,US|2:00 p.m.🕑 Jan 2nd
- San Francisco,US|5:00 a.m.🕔 Jan 2ed
- Beijing,China|11:00 a.m.🕚 Jan 1st
- Cairo,Egypt|5:00 a.m.🕔 Jan 1st
- 
-Some city have summer time. Please be careful.
-
 
 ## How do I think about FOSS
 
